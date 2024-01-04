@@ -16,6 +16,6 @@ tabuada = [resultado for resultado in range(limMin, limMax + 1)]
 
 # Imprimindo na tela a tabuada:
 for resultado in tabuada:
-    print(valor, " X ", resultado, " = ", resultado * valor)
+    print(resultado, " X ", valor, " = ", resultado * valor)
 else:
     print('Fim.')
