@@ -32,3 +32,4 @@ if difVal < 0:
     print('A variação percentual foi de -', Perc, "%")
 else:
     print('A variação percentual foi de +', Perc, "%")
+
